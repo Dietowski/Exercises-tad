@@ -1,9 +1,6 @@
 # exercises-tad
 Educational repository showcasing fundamental concepts of Abstract Data Types (ADTs) in C. This project was developed to reinforce understanding of [specific ADTs or concepts].
 
-Implementação de um TAD para um Cubo em C
-Descrição:
-
 Este repositório contém uma implementação simples de um Tipo Abstrato de Dados (TAD) para representar um cubo em linguagem C. O TAD encapsula as informações relevantes sobre o cubo (lado) e fornece funções para calcular seu volume e área superficial.
 
 Estrutura do Código:
